@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566772922525",
+    "firebase_url": "https://delms-94a65-default-rtdb.firebaseio.com",
+    "project_id": "delms-94a65",
+    "storage_bucket": "delms-94a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566772922525:android:9871957c00ad7460ce7c74",
+        "android_client_info": {
+          "package_name": "com.dataflair.librarymanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566772922525-0kk3no0c3tba1u9dvn1ntqits6fonk6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dataflair.librarymanagementapp",
+            "certificate_hash": "12596b87ee061882e9c8917ecda5baab762ec2bb"
+          }
+        },
+        {
+          "client_id": "566772922525-t7bd9dq5l6gja92hpc539uu7pen0ekgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ojU59YKOl_WnzaBaiMBY3Yw5qvc317c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566772922525-t7bd9dq5l6gja92hpc539uu7pen0ekgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
